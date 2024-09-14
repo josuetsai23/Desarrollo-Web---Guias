@@ -1,0 +1,87 @@
+
+
+body {
+    background-image: url(https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8325/1378325-i-d69986061291);
+    background-color: #f0f0f0; 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+
+#personajes, #personajes p, #personajes h3 {
+    color: #FFFF00; 
+    text-shadow: 1px 1px 2px #333; 
+}
+
+
+#personajes img {
+    width: 350px; 
+    height: 350px; 
+    object-fit: cover; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+.text p {
+    color: #FFFF00;
+    text-shadow: 1px 1px 2px #333;
+}
+
+header {
+    background-color: lightblue;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px #333;
+}
+
+.sobre {
+    color: #FFFF00;
+    font-size: x-large;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.image { 
+    flex: 1;
+    max-width: 45%;
+    margin-bottom: 20px;
+}
+
+.image img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.text {
+    flex: 2;
+    max-width: 55%;
+    padding: 20px;
+}
