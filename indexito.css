@@ -108,3 +108,32 @@ a:hover {
 .DesafioPractico a:hover {
     color: #0056b3;
 }
+.ejercicios {
+    background-color: #fff; 
+    margin: 20px auto; 
+    padding: 20px; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    width: 80%;
+    max-width: 800px; 
+    text-align: center; 
+}
+
+.ejercicios h3 {
+    font-weight: bold;
+    margin: 10px 0;
+    color: #333; 
+}
+
+.ejercicios a {
+    color: #007bff; 
+    text-decoration: none; 
+    display: inline-block;
+    margin: 5px 0; 
+    font-size: 16px;
+}
+
+.ejercicios a:hover {
+    color: #0056b3; 
+}
+
