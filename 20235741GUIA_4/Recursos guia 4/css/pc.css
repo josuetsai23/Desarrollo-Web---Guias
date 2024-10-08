@@ -29,7 +29,7 @@ nav ul li a:hover{
     color: #AAA;
     transform:scale(1.5);
 }
-   
+
 nav ul li a#inicio{
     background: url(../img/turismo/home.png) no-repeat 0px 3px;
     padding-left: 40px;
