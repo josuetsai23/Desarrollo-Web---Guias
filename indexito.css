@@ -137,3 +137,14 @@ a:hover {
 }
 
 
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('/imagen\ de\ fondo.png'); 
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed; 
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #fff; 
+}
